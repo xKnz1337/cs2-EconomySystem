@@ -1,0 +1,32 @@
+{
+  "MySQL_Host": "",
+  "MySQL_Database": "",
+  "MySQL_User": "",
+  "MySQL_Password": "",
+  "MySQL_Port": 3306,
+  "UserSystemTable": "user_system",
+  "EconomyTable": "user_credits",
+  "ChatPrefix": "{purple}[KNZ] {default}",
+  "AdminFlag": "@css/rcon",
+  "DiscordWebhookURL": "",
+  "Rewards": {
+    "Kill": 10,
+    "Assist": 5,
+    "Play15Min": 50,
+    "Wallbang": 15,
+    "Smoke": 20,
+    "Flash": 25,
+    "NoScope": 30
+  },
+  "Multipliers": {
+    "Flags": {
+      "@css/vip": 2.0,
+      "@du/linked": 1.5
+    },
+    "NameMultiplier": 1.2,
+    "NameAds": [
+      "CS.SERVER.RO",
+      "cs.server.ro"
+    ]
+  }
+}

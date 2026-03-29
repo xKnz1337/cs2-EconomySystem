@@ -1,0 +1,17 @@
+{
+  "CreditsCount": "{prefix}You have {gold}{0} {default}{1}.",
+  "UsageGive": "{prefix}Syntax: {gold}!givecredits <nume/@all> <suma>",
+  "UsageTake": "{prefix}Syntax: {gold}!takecredits <nume> <suma>",
+  "UsageTransfer": "{prefix}Syntax: {gold}!transfer <nume> <suma>",
+  "UsageOff": "{prefix}Syntax: {gold}!offcredits <userid>",
+  "PlayerNotFound": "{prefix}Player not found.",
+  "NoCredits": "{prefix}{red}You don't have enough credits.",
+  "GiveSuccess": "{prefix}{purple}{0} {default}gave {gold}{1} {default}{2} to {purple}{3}!",
+  "GiveAllSuccess": "{prefix}{purple}{0} {default}gave {gold}{1} {default}{2} to all players!",
+  "TakeSuccess": "{prefix}{purple}{0} {default}took {gold}{1} {default}{2} from {purple}{3}!",
+  "TransferBroadcast": "{prefix}{purple}{0} {default}gave {purple}{1} {gold}{2} {default}{3}!",
+  "ReceivedCredits": "{prefix}You got {gold}{0} {default}{1} ({2}).",
+  "OffFound": "{prefix}UserID {gold}{0} {default}({purple}{1}{default}) has {gold}{2} {default}{3}.",
+  "OffNotFound": "{prefix}{red}UserID {0} not found.",
+  "InvalidID": "{prefix}{red}Error: You have to type a UserID!"
+}
