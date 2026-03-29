@@ -1,6 +1,6 @@
 # 💰 [KNZ] Economy System for CS2
 
-![Version](https://img.shields.io/badge/version-26.0.0--ThreadSafe--Final-purple)
+![Version](https://img.shields.io/badge/version-1.0.0--Pre--Release)
 ![License](https://img.shields.io/badge/license-GPL--v3-blue)
 ![Framework](https://img.shields.io/badge/Framework-CounterStrikeSharp-orange)
 
